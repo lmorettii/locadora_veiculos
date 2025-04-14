@@ -1,9 +1,9 @@
-** 🚗Localizadora🚐
+ 🚗Localizadora🚐
 * O que você encontrará neste repositório?
 Aqui você poderá encontrar páginas web com o intuito de testar nosso conhecimento sobre HTML, CSS e framework(Bootstrap). Estas páginas servirão como ideias para páginas futuras.
 
 
-*O que foi utilizado na página?
+* O que foi utilizado na página?
 Nesta página web foram utilizadas as linguagens CSS , HTML e Bootstrap .
 
 
